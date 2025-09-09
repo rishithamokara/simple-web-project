@@ -1,6 +1,8 @@
 <html>
 <body>
 <h1>This is Rishitha mokara</h1>
+<h2>This is aditya degree college</h2>
 </body>
 
 </html>
+
